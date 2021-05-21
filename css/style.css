@@ -1,0 +1,59 @@
+html, body {
+    overflow: hidden;
+}
+
+.map-container {
+    position: relative;
+    height: 100vh;
+}
+
+#map{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.icon-text span {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.arrow {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto auto 3vh;
+    width: 40px;
+    height: 40px;
+    background-image: url("../img/arrow.svg");
+    background-size: contain;
+}
+
+.bounce {
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-30px);
+    }
+    60% {
+        transform: translateY(-15px);
+    }
+}
+
+.notification {
+    position: fixed;
+    left: 1em;
+    bottom: 1em;
+}
+
+li {
+    margin: 5px;
+}

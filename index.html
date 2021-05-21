@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>TCL Tracker</title>
+        <!-- LIBRAIRIES -->
+        <!-- Bulma -->
+        <link rel="stylesheet" href="lib/bulma/css/bulma.css">
+        <!-- Leaflet -->
+        <link rel="stylesheet" href="lib/leaflet/leaflet.css">
+        <script src="lib/leaflet/leaflet.js"></script>
+        <!-- JQuery -->
+        <script src="lib/jquery-3.6.0.min.js"></script>
+        <!-- Papaparse -->
+        <script src="lib/PapaParse/papaparse.min.js"></script>
+        <!-- MDI -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@5.9.55/css/materialdesignicons.min.css">
+
+        <!-- STATIC RESOURCES -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <section class="hero is-dark" style="height: 100vh;">
+            <h1 class="title is-1">
+                TCL Tracker
+            </h1>
+            <div class="arrow bounce"></div>
+        </section>
+        <div class="columns is-gapless">
+            <div class="column is-one-quarter" style="max-height: 100vh; overflow-y: auto; overflow-x: hidden;">
+                <nav class="panel" id="lines">
+                    <div class="panel-heading">
+                        <p>Lignes</p>
+                    </div>
+                </nav>
+            </div>
+            <div class="column map-container">
+                <div id="map"></div>
+            </div>
+        </div>
+        <div class="notification is-light is-link" id="loading-alert">
+            <p><b>Loading data...</b></p>
+            <ul>
+                <li>
+                    <div class="tags has-addons">
+                        <span class="tag is-dark">Lines</span>
+                        <span class="tag is-warning line-tag"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="tags has-addons">
+                        <span class="tag is-dark">Stops</span>
+                        <span class="tag is-warning stop-tag"></span>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <script type="application/javascript" src="js/main.js"></script>
+    </body>
+</html>

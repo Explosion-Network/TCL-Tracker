@@ -1,0 +1,419 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color
+301Aa9,1,A,Perrache --> Vaulx-en-Velin La Soie,REG,1,E8308A
+301Ar9,1,A,Vaulx-en-Velin La Soie --> Perrache,REG,1,E8308A
+301Aa6,1,A,Perrache --> Vaulx-en-Velin La Soie,REG,1,E8308A
+301Ar6,1,A,Vaulx-en-Velin La Soie --> Perrache,REG,1,E8308A
+301Aa8,1,A,Perrache --> Vaulx-en-Velin La Soie,REG,1,E8308A
+301Ar8,1,A,Vaulx-en-Velin La Soie --> Perrache,REG,1,E8308A
+302Aa9,1,B,Charpennes --> Gare d'Oullins,REG,1,0075BF
+302Ar9,1,B,Gare d'Oullins --> Charpennes,REG,1,0075BF
+302Aa6,1,B,Charpennes --> Gare d'Oullins,REG,1,0075BF
+302Ar6,1,B,Gare d'Oullins --> Charpennes,REG,1,0075BF
+302Aa8,1,B,Charpennes --> Gare d'Oullins,REG,1,0075BF
+302Ar8,1,B,Gare d'Oullins --> Charpennes,REG,1,0075BF
+303a18,1,C,Hôtel de Ville L. Pradel --> Cuire,REG,1,F59C00
+303r18,1,C,Cuire --> Hôtel de Ville L. Pradel,REG,1,F59C00
+304a8,1,D,Gare de Vaise --> Gare de Vénissieux,REG,1,009E3D
+304r8,1,D,Gare de Vénissieux --> Gare de Vaise,REG,1,009E3D
+304a6,1,D,Gare de Vaise --> Gare de Vénissieux,REG,1,009E3D
+304r6,1,D,Gare de Vénissieux --> Gare de Vaise,REG,1,009E3D
+T1Aa27,1,T1,Debourg --> IUT Feyssine,REG,0,8C368C
+T1Ar27,1,T1,IUT Feyssine --> Debourg,REG,0,8C368C
+T1Aa28,1,T1,Debourg --> IUT Feyssine,REG,0,8C368C
+T1Ar28,1,T1,IUT Feyssine --> Debourg,REG,0,8C368C
+T2a80,1,T2,Hôtel Région Montrochet --> St Priest Bel Air,REG,0,8C368C
+T2r80,1,T2,St Priest Bel Air --> Hôtel Région Montrochet,REG,0,8C368C
+T3a47,1,T3,Gare Part-Dieu Villette --> Meyzieu les Panettes,REG,0,8C368C
+T3r47,1,T3,Meyzieu les Panettes --> Gare Part-Dieu Villette,REG,0,8C368C
+T4Aa20,1,T4,La Doua - Gaston Berger --> Hop. Feyzin Venissieux,REG,0,8C368C
+T4Ar20,1,T4,Hop. Feyzin Venissieux --> La Doua - Gaston Berger,REG,0,8C368C
+T4Aa23,1,T4,La Doua - Gaston Berger --> Hop. Feyzin Venissieux,REG,0,8C368C
+T4Ar23,1,T4,Hop. Feyzin Venissieux --> La Doua - Gaston Berger,REG,0,8C368C
+T5a13,1,T5,Grange Blanche --> Eurexpo Entrée Princ.,REG,0,8C368C
+T5r13,1,T5,Eurexpo Entrée Princ. --> Grange Blanche,REG,0,8C368C
+T6a4,1,T6,Debourg --> Hôpitaux Est - Pinel,REG,0,8C368C
+T6r4,1,T6,Hôpitaux Est - Pinel --> Debourg,REG,0,8C368C
+T7a1,1,T7,Vaulx-en-Velin La Soie --> Décines OL Vallée,REG,0,00FFFF
+T7r1,1,T7,Décines OL Vallée --> Vaulx-en-Velin La Soie,REG,0,00FFFF
+C1Aa12,1,C1,Part-Dieu Jules Favre --> Cuire,REG,3,778186
+C1Ar12,1,C1,Cuire --> Part-Dieu Jules Favre,REG,3,778186
+C1Aa9,1,C1,Part-Dieu Jules Favre --> Cuire,REG,3,778186
+C1Ar9,1,C1,Cuire --> Part-Dieu Jules Favre,REG,3,778186
+C2Aa16,1,C2,Part-Dieu Jules Favre --> Rillieux Semailles,REG,3,778186
+C2Ar16,1,C2,Rillieux Semailles --> Part-Dieu Jules Favre,REG,3,778186
+C2Aa15,1,C2,Part-Dieu Jules Favre --> Rillieux Semailles,REG,3,778186
+C2Ar15,1,C2,Rillieux Semailles --> Part-Dieu Jules Favre,REG,3,778186
+C2Aa13,1,C2,Part-Dieu Jules Favre --> Rillieux Semailles,REG,3,778186
+C2Ar13,1,C2,Rillieux Semailles --> Part-Dieu Jules Favre,REG,3,778186
+C3Aa65,1,C3,Gare Saint-Paul --> Vaulx - La Grappinière,REG,3,778186
+C3Ar65,1,C3,Vaulx - La Grappinière --> Gare Saint-Paul,REG,3,778186
+C4Aa9,1,C4,Jean Macé --> Cité Internationale,REG,3,778186
+C4Ar9,1,C4,Cité Internationale --> Jean Macé,REG,3,778186
+C4Aa6,1,C4,Jean Macé --> Cité Internationale,REG,3,778186
+C4Ar6,1,C4,Cité Internationale --> Jean Macé,REG,3,778186
+C4Aa7,1,C4,Jean Macé --> Cité Internationale,REG,3,778186
+C4Ar7,1,C4,Cité Internationale --> Jean Macé,REG,3,778186
+C5Aa38,1,C5,Cordeliers --> Rillieux Semailles,REG,3,778186
+C5Ar38,1,C5,Rillieux Semailles --> Cordeliers,REG,3,778186
+C5Aa36,1,C5,Cordeliers --> Rillieux Semailles,REG,3,778186
+C5Ar36,1,C5,Rillieux Semailles --> Cordeliers,REG,3,778186
+C6Ca6,1,C6,Gare Part-Dieu V.Merle --> Campus Lyon Ouest,REG,3,778186
+C6Cr6,1,C6,Campus Lyon Ouest --> Gare Part-Dieu V.Merle,REG,3,778186
+C7Ba15,1,C7,Gare Part-Dieu V.Merle --> Hôpital Lyon Sud,REG,3,778186
+C7Br15,1,C7,Hôpital Lyon Sud --> Gare Part-Dieu V.Merle,REG,3,778186
+C7Ba17,1,C7,Gare Part-Dieu V.Merle --> Hôpital Lyon Sud,REG,3,778186
+C7Br17,1,C7,Hôpital Lyon Sud --> Gare Part-Dieu V.Merle,REG,3,778186
+C8Aa21,1,C8,Grange Blanche --> Vaulx - Résistance,REG,3,778186
+C8Ar21,1,C8,Vaulx - Résistance --> Grange Blanche,REG,3,778186
+C9Aa30,1,C9,Bellecour Le Viste --> Hôpitaux Est,REG,3,778186
+C9Ar30,1,C9,Hôpitaux Est --> Bellecour Le Viste,REG,3,778186
+C10Aa25,1,C10,Bellecour Charité --> Saint-Genis Barolles,REG,3,778186
+C10Ar25,1,C10,Saint-Genis Barolles --> Bellecour Charité,REG,3,778186
+C11Aa22,1,C11,Saxe - Gambetta --> Laurent Bonnevay,REG,3,778186
+C11Ar22,1,C11,Laurent Bonnevay --> Saxe - Gambetta,REG,3,778186
+C11Aa21,1,C11,Saxe - Gambetta --> Laurent Bonnevay,REG,3,778186
+C11Ar21,1,C11,Laurent Bonnevay --> Saxe - Gambetta,REG,3,778186
+C12Aa21,1,C12,Bellecour Le Viste --> Hop. Feyzin Venissieux,REG,3,778186
+C12Ar21,1,C12,Hop. Feyzin Venissieux --> Bellecour Le Viste,REG,3,778186
+C12Aa20,1,C12,Bellecour Le Viste --> Hop. Feyzin Venissieux,REG,3,778186
+C12Ar20,1,C12,Hop. Feyzin Venissieux --> Bellecour Le Viste,REG,3,778186
+C12Aa19,1,C12,Bellecour Le Viste --> Hop. Feyzin Venissieux,REG,3,778186
+C12Ar19,1,C12,Hop. Feyzin Venissieux --> Bellecour Le Viste,REG,3,778186
+C13Ba3,1,C13,Grange Blanche --> Montessuy Gutenberg,REG,3,778186
+C13Br3,1,C13,Montessuy Gutenberg --> Grange Blanche,REG,3,778186
+C14Aa34,1,C14,Jean Macé --> Les Sources,REG,3,778186
+C14Ar34,1,C14,Les Sources --> Jean Macé,REG,3,778186
+C15Aa26,1,C15,Bachut - Mairie du 8ème --> Laurent Bonnevay,REG,3,778186
+C15Ar26,1,C15,Laurent Bonnevay --> Bachut - Mairie du 8ème,REG,3,778186
+C15Aa25,1,C15,Bachut - Mairie du 8ème --> Laurent Bonnevay,REG,3,778186
+C15Ar25,1,C15,Laurent Bonnevay --> Bachut - Mairie du 8ème,REG,3,778186
+C15Aa24,1,C15,Bachut - Mairie du 8ème --> Laurent Bonnevay,REG,3,778186
+C15Ar24,1,C15,Laurent Bonnevay --> Bachut - Mairie du 8ème,REG,3,778186
+C16Aa26,1,C16,Charpennes --> Surville Route de Vienne,REG,3,778186
+C16Ar26,1,C16,Surville Route de Vienne --> Charpennes,REG,3,778186
+C16Aa23,1,C16,Charpennes --> Surville Route de Vienne,REG,3,778186
+C16Ar23,1,C16,Surville Route de Vienne --> Charpennes,REG,3,778186
+C17Aa41,1,C17,Charpennes --> Porte des Alpes,REG,3,778186
+C17Ar41,1,C17,Porte des Alpes --> Charpennes,REG,3,778186
+C18Aa19,1,C18,Hôtel de Ville L. Pradel --> Croix-Rousse Nord,REG,3,778186
+C18Ar19,1,C18,Croix-Rousse Nord --> Hôtel de Ville L. Pradel,REG,3,778186
+C19Aa17,1,C19,Perrache --> Francheville Taffignon,REG,3,778186
+C19Ar17,1,C19,Francheville Taffignon --> Perrache,REG,3,778186
+C20Da12,1,C20,Bellecour Le Viste --> Francheville Taffignon,REG,3,778186
+C20Dr12,1,C20,Francheville Taffignon --> Bellecour Le Viste,REG,3,778186
+C20Da11,1,C20,Bellecour Le Viste --> Francheville Taffignon,REG,3,778186
+C20Dr11,1,C20,Francheville Taffignon --> Bellecour Le Viste,REG,3,778186
+C20Ea10,1,C20E,Bellecour Le Viste --> Fort du Bruissin,REG,3,6F4013
+C20Er10,1,C20E,Fort du Bruissin --> Bellecour Le Viste,REG,3,6F4013
+C20Ea9,1,C20E,Bellecour Le Viste --> Fort du Bruissin,REG,3,6F4013
+C20Er9,1,C20E,Fort du Bruissin --> Bellecour Le Viste,REG,3,6F4013
+C21Aa28,1,C21,Perrache --> Gorge de Loup,REG,3,778186
+C21Ar28,1,C21,Gorge de Loup --> Perrache,REG,3,778186
+C21Aa27,1,C21,Perrache --> Gorge de Loup,REG,3,778186
+C21Ar27,1,C21,Gorge de Loup --> Perrache,REG,3,778186
+C24Da5,1,C24,Gorge de Loup --> Craponne Val d'Yzeron,REG,3,778186
+C24Dr5,1,C24,Craponne Val d'Yzeron --> Gorge de Loup,REG,3,778186
+C24Ea3,1,C24E,Gorge de Loup --> Gymnase E.Catalon,REG,3,6F4013
+C24Er3,1,C24E,Gymnase E.Catalon --> Gorge de Loup,REG,3,6F4013
+C25Ba17,1,C25,Gare Part-Dieu V.Merle --> St-Priest Plaine Saythe,REG,3,778186
+C25Br17,1,C25,St-Priest Plaine Saythe --> Gare Part-Dieu V.Merle,REG,3,778186
+C26Aa19,1,C26,Cité Inter Transbordeur --> Grange Blanche,REG,3,778186
+C26Ar19,1,C26,Grange Blanche --> Cité Inter Transbordeur,REG,3,778186
+C26Aa17,1,C26,Cité Inter Transbordeur --> Grange Blanche,REG,3,778186
+C26Ar17,1,C26,Grange Blanche --> Cité Inter Transbordeur,REG,3,778186
+2Aa22,1,2,Croix-Rousse --> Plateaux de St Rambert,REG,3,E30613
+2Ar22,1,2,Plateaux de St Rambert --> Croix-Rousse,REG,3,E30613
+3Aa32,1,3,Gorge de Loup --> Dardilly Le Jubin,REG,3,E30613
+3Ar32,1,3,Dardilly Le Jubin --> Gorge de Loup,REG,3,E30613
+3Aa33,1,3,Gorge de Loup --> Limonest Le Puy d'Or,REG,3,E30613
+3Ar33,1,3,Limonest Le Puy d'Or --> Gorge de Loup,REG,3,E30613
+5Aa25,1,5,Pont Mouton --> Charbonnières Verrières,REG,3,E30613
+5Ar25,1,5,Charbonnières Verrières --> Pont Mouton,REG,3,E30613
+7Aa22,1,7,Laurent Bonnevay --> Vaulx Lakanal,REG,3,E30613
+7Ar22,1,7,Vaulx Lakanal --> Laurent Bonnevay,REG,3,E30613
+7Aa21,1,7,Laurent Bonnevay --> Vaulx-en-Velin Le Bourg,REG,3,E30613
+7Ar21,1,7,Vaulx-en-Velin Le Bourg --> Laurent Bonnevay,REG,3,E30613
+8Ba4,1,8,Perrache --> Oullins Clément Désormes,REG,3,E30613
+8Br4,1,8,Oullins Clément Désormes --> Perrache,REG,3,E30613
+9Ba2,1,9,Cordeliers --> Sathonay Castellane,REG,3,E30613
+9Br2,1,9,Sathonay Castellane --> Cordeliers,REG,3,E30613
+1EXa21,1,1E,Colombier-Saugn. Salines --> Grange Blanche,REG,3,575756
+1EXr21,1,1E,Grange Blanche --> Colombier-Saugn. Salines,REG,3,575756
+1EXa22,1,1E,Colombier-Saugn. Salines --> Grange Blanche,REG,3,575756
+1EXr22,1,1E,Grange Blanche --> Colombier-Saugn. Salines,REG,3,575756
+10Da4,1,10,Gare de Vaise --> Porte de Lyon,REG,3,00FFFF
+10Dr4,1,10,Porte de Lyon --> Gare de Vaise,REG,3,00FFFF
+10Ea2,1,10E,Gare de Vaise --> Porte de Lyon,REG,3,00FFFF
+10Er2,1,10E,Porte de Lyon --> Gare de Vaise,REG,3,00FFFF
+11Ba13,1,11,Gare d'Oullins --> Thurins Mairie,REG,3,E30613
+11Br13,1,11,Thurins Mairie --> Gare d'Oullins,REG,3,E30613
+12Ba10,1,12,Gare d'Oullins --> St-Genis 2,REG,3,E30613
+12Br10,1,12,St-Genis 2 --> Gare d'Oullins,REG,3,E30613
+14Ba16,1,14,Gare d'Oullins --> Gorge de Loup,REG,3,E30613
+14Br16,1,14,Gorge de Loup --> Gare d'Oullins,REG,3,E30613
+147a3,1,147,Terres Plates --> Grézieu - Montolvet,REG,3,00FFFF
+147r3,1,147,Grézieu - Montolvet --> Terres Plates,REG,3,00FFFF
+15Ca3,1,15,Bellecour Charité --> Irigny Hauts de Selettes,REG,3,E30613
+15Cr3,1,15,Irigny Hauts de Selettes --> Bellecour Charité,REG,3,E30613
+15Fa6,1,15E,Bellecour Charité --> Irigny - Gare d'Yvours,REG,3,6F4013
+15Fr6,1,15E,Irigny - Gare d'Yvours --> Bellecour Charité,REG,3,6F4013
+16Aa11,1,16,Vaulx-en-Velin La Soie --> Décines Grand Large,REG,3,E30613
+16Ar11,1,16,Décines Grand Large --> Vaulx-en-Velin La Soie,REG,3,E30613
+16Aa10,1,16,Vaulx-en-Velin La Soie --> Décines Grand Large,REG,3,E30613
+16Ar10,1,16,Décines Grand Large --> Vaulx-en-Velin La Soie,REG,3,E30613
+17Ba15,1,17,Ste-Foy Place Saint Luc --> St-Genis 2,REG,3,E30613
+17Br15,1,17,St-Genis 2 --> Ste-Foy Place Saint Luc,REG,3,E30613
+171a29,1,171,Pont Guillotière RD --> Crépieux Les Brosses,REG,3,E30613
+171r29,1,171,Crépieux Les Brosses --> Pont Guillotière RD,REG,3,E30613
+18Ba13,1,18,Gare d'Oullins --> Vernaison place,REG,3,E30613
+18Br13,1,18,Vernaison place --> Gare d'Oullins,REG,3,E30613
+19Aa18,1,19,Hôtel de Ville L. Pradel --> Ecully Le Perollier,REG,3,E30613
+19Ar18,1,19,Ecully Le Perollier --> Hôtel de Ville L. Pradel,REG,3,E30613
+2EXa7,1,2EX,Gorge de Loup --> Le Pont,REG,3,575756
+2EXr7,1,2EX,Le Pont --> Gorge de Loup,REG,3,575756
+20Aa15,1,20,Gare de Vaise --> St Cyr,REG,3,E30613
+20Ar15,1,20,St Cyr --> Gare de Vaise,REG,3,E30613
+21Aa23,1,21,Gare de Vaise --> Limonest Cimetière,REG,3,E30613
+21Ar23,1,21,Limonest Cimetière --> Gare de Vaise,REG,3,E30613
+21Aa24,1,21,Gare de Vaise --> Limonest Cimetière,REG,3,E30613
+21Ar24,1,21,Limonest Cimetière --> Gare de Vaise,REG,3,E30613
+22Aa8,1,22,Gare de Vaise --> St Fortunat,REG,3,E30613
+22Ar8,1,22,St Fortunat --> Gare de Vaise,REG,3,E30613
+23Aa8,1,23,Gare de Vaise --> Rocade des Monts d'Or,REG,3,E30613
+23Ar8,1,23,Rocade des Monts d'Or --> Gare de Vaise,REG,3,E30613
+24Aa15,1,24,Grange Blanche --> Sept Chemins,REG,3,E30613
+24Ar15,1,24,Sept Chemins --> Grange Blanche,REG,3,E30613
+25Aa18,1,25,Gare Part-Dieu V.Merle --> Sept Chemins,REG,3,E30613
+25Ar18,1,25,Sept Chemins --> Gare Part-Dieu V.Merle,REG,3,E30613
+26Aa14,1,26,Lycée Lumière --> Manissieux P. Blanche,REG,3,E30613
+26Ar14,1,26,Manissieux P. Blanche --> Lycée Lumière,REG,3,E30613
+27Aa26,1,27,Vieux Lyon --> Villeurbanne Centre,REG,3,E30613
+27Ar26,1,27,Villeurbanne Centre --> Vieux Lyon,REG,3,E30613
+28Aa16,1,28,Meyzieu Z.i. --> Vaulx-en-Velin La Soie,REG,3,E30613
+28Ar16,1,28,Vaulx-en-Velin La Soie --> Meyzieu Z.i.,REG,3,E30613
+29Aa18,1,29,Meyzieu Z.i. --> R.N.6 - A. Pare,REG,3,E30613
+29Ar18,1,29,R.N.6 - A. Pare --> Meyzieu Z.i.,REG,3,E30613
+296a31,1,2960,Gare Part-Dieu Villette --> St-P.de-Chandieu - Rajat,ITL,3,E30613
+296r31,1,2960,St-P.de-Chandieu - Rajat --> Gare Part-Dieu Villette,ITL,3,E30613
+30Ba3,1,30,St-P.de-Chandieu - Rajat --> St Priest Jules Ferry,REG,3,E30613
+30Br3,1,30,St Priest Jules Ferry --> St-P.de-Chandieu - Rajat,REG,3,E30613
+31Aa27,1,31,Perrache --> Cité Edouard Herriot,REG,3,E30613
+31Ar27,1,31,Cité Edouard Herriot --> Perrache,REG,3,E30613
+31Aa26,1,31,Perrache --> Cité Edouard Herriot,REG,3,E30613
+31Ar26,1,31,Cité Edouard Herriot --> Perrache,REG,3,E30613
+32Aa7,1,32,Hameau de Bianne --> Meyzieu Z.i.,REG,3,E30613
+32Ar7,1,32,Meyzieu Z.i. --> Hameau de Bianne,REG,3,E30613
+325a8,1,F1,Vieux Lyon --> St Just,REG,7,95C23D
+325r8,1,F1,St Just --> Vieux Lyon,REG,7,95C23D
+326a7,1,F2,Vieux Lyon --> Fourvière,REG,7,95C23D
+326r7,1,F2,Fourvière --> Vieux Lyon,REG,7,95C23D
+33Aa28,1,33,Croix-Rousse --> Rillieux - Les Alagniers,REG,3,E30613
+33Ar28,1,33,Rillieux - Les Alagniers --> Croix-Rousse,REG,3,E30613
+34Aa4,1,34,Perrache --> Grange Blanche,REG,3,E30613
+34Ar4,1,34,Grange Blanche --> Perrache,REG,3,E30613
+35Aa26,1,35,Bellecour Charité --> Vénissieux Le Charréard,REG,3,E30613
+35Ar26,1,35,Vénissieux Le Charréard --> Bellecour Charité,REG,3,E30613
+37Aa24,1,37,Charpennes --> O'Hara,REG,3,E30613
+37Ar24,1,37,O'Hara --> Charpennes,REG,3,E30613
+37Aa20,1,37,Charpennes --> Vaulx - Marcel Cachin,REG,3,E30613
+37Ar20,1,37,Vaulx - Marcel Cachin --> Charpennes,REG,3,E30613
+38Ba3,1,38,Gare Part-Dieu V.Merle --> Caluire - Pl. Bascule,REG,3,E30613
+38Br3,1,38,Caluire - Pl. Bascule --> Gare Part-Dieu V.Merle,REG,3,E30613
+39Aa14,1,39,Parc de Parilly --> Solaize Mairie,REG,3,E30613
+39Ar14,1,39,Solaize Mairie --> Parc de Parilly,REG,3,E30613
+40Aa38,1,40,Bellecour Le Viste --> Neuville,REG,3,E30613
+40Ar38,1,40,Neuville --> Bellecour Le Viste,REG,3,E30613
+43Aa16,1,43,Gare de Vaise --> Genay Proulieu,REG,3,E30613
+43Ar16,1,43,Genay Proulieu --> Gare de Vaise,REG,3,E30613
+43Aa18,1,43,Gare de Vaise --> Genay Proulieu,REG,3,E30613
+43Ar18,1,43,Genay Proulieu --> Gare de Vaise,REG,3,E30613
+45Ba6,1,45,Croix-Rousse --> Valdo,REG,3,E30613
+45Br6,1,45,Valdo --> Croix-Rousse,REG,3,E30613
+46Aa16,1,46,Perrache --> Boyer,REG,3,E30613
+46Ar16,1,46,Boyer --> Perrache,REG,3,E30613
+47Aa10,1,47,Meyzieu Z.i. --> Maréchal Juin,REG,3,E30613
+47Ar10,1,47,Maréchal Juin --> Meyzieu Z.i.,REG,3,E30613
+48Ba5,1,48,Bornicat --> Aéroport St Exupéry -Bus,REG,3,E30613
+48Br5,1,48,Aéroport St Exupéry -Bus --> Bornicat,REG,3,E30613
+49Aa13,1,49,Perrache --> Ste Foy Châtelain,REG,3,E30613
+49Ar13,1,49,Ste Foy Châtelain --> Perrache,REG,3,E30613
+50Aa13,1,50,St Priest Hôtel de Ville --> La Fouillouse,REG,3,E30613
+50Ar13,1,50,La Fouillouse --> St Priest Hôtel de Ville,REG,3,E30613
+52Aa29,1,52,Vaulx - La Grappinière --> Sept Chemins,REG,3,E30613
+52Ar29,1,52,Sept Chemins --> Vaulx - La Grappinière,REG,3,E30613
+52Aa30,1,52,Vaulx - La Grappinière --> Parilly Univ. Hippodrome,REG,3,E30613
+52Ar30,1,52,Parilly Univ. Hippodrome --> Vaulx - La Grappinière,REG,3,E30613
+54Aa11,1,54,Gare de Vénissieux --> Corbas Les Taillis,REG,3,E30613
+54Ar11,1,54,Corbas Les Taillis --> Gare de Vénissieux,REG,3,E30613
+55Ba5,1,55,Perrache --> Campus Lyon Ouest,REG,3,E30613
+55Br5,1,55,Campus Lyon Ouest --> Perrache,REG,3,E30613
+55Ba6,1,55,Perrache --> Campus Lyon Ouest,REG,3,E30613
+55Br6,1,55,Campus Lyon Ouest --> Perrache,REG,3,E30613
+57Aa23,1,57,Laurent Bonnevay --> O'Hara,REG,3,E30613
+57Ar23,1,57,O'Hara --> Laurent Bonnevay,REG,3,E30613
+57Aa19,1,57,Laurent Bonnevay --> Vaulx - Marcel Cachin,REG,3,E30613
+57Ar19,1,57,Vaulx - Marcel Cachin --> Laurent Bonnevay,REG,3,E30613
+57Aa18,1,57,Laurent Bonnevay --> Vaulx - Marcel Cachin,REG,3,E30613
+57Ar18,1,57,Vaulx - Marcel Cachin --> Laurent Bonnevay,REG,3,E30613
+57Aa21,1,57,Laurent Bonnevay --> Vaulx - Marcel Cachin,REG,3,E30613
+57Ar21,1,57,Vaulx - Marcel Cachin --> Laurent Bonnevay,REG,3,E30613
+60Aa20,1,60,Perrache --> Feyzin Les Razes,REG,3,E30613
+60Ar20,1,60,Feyzin Les Razes --> Perrache,REG,3,E30613
+60Aa21,1,60,Perrache --> Feyzin Les Razes,REG,3,E30613
+60Ar21,1,60,Feyzin Les Razes --> Perrache,REG,3,E30613
+61Ba6,1,61,Gare de Vaise --> Lissieu - Montluzin,REG,3,E30613
+61Br6,1,61,Lissieu - Montluzin --> Gare de Vaise,REG,3,E30613
+62Aa27,1,62,Gare de Vénissieux --> Mions Jules Vallès,REG,3,E30613
+62Ar27,1,62,Mions Jules Vallès --> Gare de Vénissieux,REG,3,E30613
+62Aa28,1,62,Gare de Vénissieux --> Mions Jules Vallès,REG,3,E30613
+62Ar28,1,62,Mions Jules Vallès --> Gare de Vénissieux,REG,3,E30613
+63Aa34,1,63,Perrache --> Oullins Le Golf,REG,3,E30613
+63Ar34,1,63,Oullins Le Golf --> Perrache,REG,3,E30613
+63Aa35,1,63,Perrache --> Oullins Le Golf,REG,3,E30613
+63Ar35,1,63,Oullins Le Golf --> Perrache,REG,3,E30613
+64Aa4,1,64,Jean Macé --> Belle Etoile,REG,3,E30613
+64Ar4,1,64,Belle Etoile --> Jean Macé,REG,3,E30613
+65Ba3,1,65,Gorge de Loup --> Charcot - La Source,REG,3,E30613
+65Br3,1,65,Charcot - La Source --> Gorge de Loup,REG,3,E30613
+66Ba6,1,66,St Just --> Champagne Ecoles,REG,3,E30613
+66Br6,1,66,Champagne Ecoles --> St Just,REG,3,E30613
+66Ba7,1,66,St Just --> Champagne Ecoles,REG,3,E30613
+66Br7,1,66,Champagne Ecoles --> St Just,REG,3,E30613
+67Aa13,1,67,Laurent Bonnevay --> Meyzieu Av de Crottay,REG,3,E30613
+67Ar13,1,67,Meyzieu Av de Crottay --> Laurent Bonnevay,REG,3,E30613
+67Aa14,1,67,Laurent Bonnevay --> Meyzieu Av de Crottay,REG,3,E30613
+67Ar14,1,67,Meyzieu Av de Crottay --> Laurent Bonnevay,REG,3,E30613
+68Ba8,1,68,Vaulx-en-Velin La Soie --> Les Grandes Terres,REG,3,E30613
+68Br8,1,68,Les Grandes Terres --> Vaulx-en-Velin La Soie,REG,3,E30613
+68Ba9,1,68,Vaulx-en-Velin La Soie --> Les Grandes Terres,REG,3,E30613
+68Br9,1,68,Les Grandes Terres --> Vaulx-en-Velin La Soie,REG,3,E30613
+69Aa20,1,69,Manufacture Montluc --> Collège du Tonkin,REG,3,E30613
+69Ar20,1,69,Collège du Tonkin --> Manufacture Montluc,REG,3,E30613
+70Aa40,1,70,Part-Dieu Jules Favre --> Neuville,REG,3,E30613
+70Ar40,1,70,Neuville --> Part-Dieu Jules Favre,REG,3,E30613
+71Aa14,1,71,Gare de Vaise --> Ecoles de Collonges,REG,3,E30613
+71Ar14,1,71,Ecoles de Collonges --> Gare de Vaise,REG,3,E30613
+72Ca4,1,72,Gorge de Loup --> Ste Consorce,REG,3,E30613
+72Cr4,1,72,Ste Consorce --> Gorge de Loup,REG,3,E30613
+72Ca5,1,72,Gorge de Loup --> Ste Consorce,REG,3,E30613
+72Cr5,1,72,Ste Consorce --> Gorge de Loup,REG,3,E30613
+73Da5,1,73,Gorge de Loup --> Brindas Centre,REG,3,E30613
+73Dr5,1,73,Brindas Centre --> Gorge de Loup,REG,3,E30613
+73Ea4,1,73E,Gorge de Loup --> Brindas Centre,REG,3,6F4013
+73Er4,1,73E,Brindas Centre --> Gorge de Loup,REG,3,6F4013
+76Aa16,1,76,Corbas Les Balmes --> Décines Grand Large,REG,3,E30613
+76Ar16,1,76,Décines Grand Large --> Corbas Les Balmes,REG,3,E30613
+77Aa34,1,77,Montessuy Gutenberg --> Pont de Fontaines,REG,3,E30613
+77Ar34,1,77,Pont de Fontaines --> Montessuy Gutenberg,REG,3,E30613
+78Ba27,1,78,Gare d'Oullins --> Gare de Givors Ville,REG,3,E30613
+78Br27,1,78,Gare de Givors Ville --> Gare d'Oullins,REG,3,E30613
+79Aa21,1,79,La Borelle --> Décines Grand Large,REG,3,E30613
+79Ar21,1,79,Décines Grand Large --> La Borelle,REG,3,E30613
+80Aa27,1,80,Grigny La Colombe --> Givors Vallée du Gier,REG,3,E30613
+80Ar27,1,80,Givors Vallée du Gier --> Grigny La Colombe,REG,3,E30613
+81Aa29,1,81,Plateau de Montrond --> Collège Paul Vallon,REG,3,E30613
+81Ar29,1,81,Collège Paul Vallon --> Plateau de Montrond,REG,3,E30613
+83Aa17,1,83,Vaulx-en-Velin La Soie --> Grd Parc Miribel Jonage,REG,3,E30613
+83Ar17,1,83,Grd Parc Miribel Jonage --> Vaulx-en-Velin La Soie,REG,3,E30613
+83Aa15,1,83,Vaulx-en-Velin La Soie --> Grd Parc Miribel Jonage,REG,3,E30613
+83Ar15,1,83,Grd Parc Miribel Jonage --> Vaulx-en-Velin La Soie,REG,3,E30613
+84Aa29,1,84,Gare de Vaise --> Neuville,REG,3,E30613
+84Ar29,1,84,Neuville --> Gare de Vaise,REG,3,E30613
+84Aa28,1,84,Gare de Vaise --> Neuville,REG,3,E30613
+84Ar28,1,84,Neuville --> Gare de Vaise,REG,3,E30613
+85Aa14,1,85,Décines Grand Large --> Meyzieu Gadelles,REG,3,E30613
+85Ar14,1,85,Meyzieu Gadelles --> Décines Grand Large,REG,3,E30613
+85Aa16,1,85,Décines Grand Large --> Meyzieu Gadelles,REG,3,E30613
+85Ar16,1,85,Meyzieu Gadelles --> Décines Grand Large,REG,3,E30613
+86Aa16,1,86,Gorge de Loup --> Tour Salvagny Chambettes,REG,3,E30613
+86Ar16,1,86,Tour Salvagny Chambettes --> Gorge de Loup,REG,3,E30613
+86Aa17,1,86,Gorge de Loup --> Tour Salvagny Chambettes,REG,3,E30613
+86Ar17,1,86,Tour Salvagny Chambettes --> Gorge de Loup,REG,3,E30613
+87Aa10,1,87,Gare de Vénissieux --> Mions Bourdelle,REG,3,E30613
+87Ar10,1,87,Mions Bourdelle --> Gare de Vénissieux,REG,3,E30613
+88Ba21,1,88,Gare d'Oullins --> St Genis Gadagne,REG,3,E30613
+88Br21,1,88,St Genis Gadagne --> Gare d'Oullins,REG,3,E30613
+89Da6,1,89,Gare de Vaise --> Porte de Lyon,REG,3,E30613
+89Dr6,1,89,Porte de Lyon --> Gare de Vaise,REG,3,E30613
+89Ea4,1,89D,Gare de Vaise --> Porte de Lyon,REG,3,E30613
+89Er4,1,89D,Porte de Lyon --> Gare de Vaise,REG,3,E30613
+90Ba8,1,90,Valmy - Place Ferber --> Ste Foy Châtelain,REG,3,E30613
+90Br8,1,90,Ste Foy Châtelain --> Valmy - Place Ferber,REG,3,E30613
+93Aa20,1,93,Hop. Feyzin Venissieux --> Porte des Alpes,REG,3,E30613
+93Ar20,1,93,Porte des Alpes --> Hop. Feyzin Venissieux,REG,3,E30613
+93Aa18,1,93,Hop. Feyzin Venissieux --> Porte des Alpes,REG,3,E30613
+93Ar18,1,93,Porte des Alpes --> Hop. Feyzin Venissieux,REG,3,E30613
+95Aa6,1,95,Meyzieu Parc Grand Large --> Jonage Chât. des Marres,REG,3,E30613
+95Ar6,1,95,Jonage Chât. des Marres --> Meyzieu Parc Grand Large,REG,3,E30613
+96Aa21,1,96,Neuville --> Quincieux Boulodrome,REG,3,E30613
+96Ar21,1,96,Quincieux Boulodrome --> Neuville,REG,3,E30613
+97Aa20,1,97,Montanay Les Dîmes --> Neuville,REG,3,E30613
+97Ar20,1,97,Neuville --> Montanay Les Dîmes,REG,3,E30613
+98Ga2,1,98,Gorge de Loup --> Marcy Campus Sanofi,REG,3,E30613
+98Gr2,1,98,Marcy Campus Sanofi --> Gorge de Loup,REG,3,E30613
+98Ha2,1,98E,Gorge de Loup --> Marcy Campus Sanofi,REG,3,E30613
+98Hr2,1,98E,Marcy Campus Sanofi --> Gorge de Loup,REG,3,E30613
+111Aa4,1,111,Parilly --> Jacques Prévert,REG,3,E30613
+111Ar4,1,111,Jacques Prévert --> Parilly,REG,3,E30613
+112Aa5,1,112,Parilly --> Corbas Musée Aviation,REG,3,E30613
+112Ar5,1,112,Corbas Musée Aviation --> Parilly,REG,3,E30613
+115Aa8,1,115,Bois Dieu --> Lissieu - Montluzin,REG,3,E30613
+115Ar8,1,115,Lissieu - Montluzin --> Bois Dieu,REG,3,E30613
+118Aa7,1,118,Gare de Vaise --> Bois Dieu,REG,3,E30613
+118Ar7,1,118,Bois Dieu --> Gare de Vaise,REG,3,E30613
+142Aa2,1,142,Gorge de Loup --> Ecole Vétérinaire,REG,3,E30613
+142Ar2,1,142,Ecole Vétérinaire --> Gorge de Loup,REG,3,E30613
+GE2Aa15,1,GE2,Feyzin Gare --> Solaize CRES,REG,3,004F91
+GE2Ar15,1,GE2,Solaize CRES --> Feyzin Gare,REG,3,004F91
+GE4Aa11,1,GE4,La Tour de Salvagny Gare --> Techlid Le Tronchon,TAD,3,004F91
+GE4Ar11,1,GE4,Techlid Le Tronchon --> La Tour de Salvagny Gare,TAD,3,004F91
+GE6Aa9,1,GE6,Charbonnières Gare --> Marcy l'Etoile,REG,3,004F91
+R2Aa10,1,R2,Chantemerle --> Neuville,TAD,3,D9318A
+R2Ar10,1,R2,Neuville --> Chantemerle,TAD,3,D9318A
+R3Aa4,1,R3,Givors Hôtel de Ville --> Cimetière de Givors,TAD,3,D9318A
+R3Ar4,1,R3,Cimetière de Givors --> Givors Hôtel de Ville,TAD,3,D9318A
+S1Aa35,1,S1,Confluence Rambaud --> Gare Saint-Paul,REG,3,007632
+S1Ar35,1,S1,Gare Saint-Paul --> Confluence Rambaud,REG,3,007632
+S1Aa27,1,S1,Confluence Rambaud --> Gare Saint-Paul,REG,3,007632
+S1Ar27,1,S1,Gare Saint-Paul --> Confluence Rambaud,REG,3,007632
+S1Aa28,1,S1,Confluence Rambaud --> Gare Saint-Paul,REG,3,007632
+S1Ar28,1,S1,Gare Saint-Paul --> Confluence Rambaud,REG,3,007632
+S2Aa9,1,S2,La Tour de Salvagny Gare --> La Tour de Salvagny Chambettes,REG,3,007632
+S3Ba12,1,S3,Allée des Hêtres --> Collonges Gare,REG,3,007632
+S3Br12,1,S3,Collonges Gare --> Allée des Hêtres,REG,3,007632
+S4Aa12,1,S4,Croix-Rousse --> Hénon - Deleuvre,REG,3,007632
+S4Ar12,1,S4,Hénon - Deleuvre --> Croix-Rousse,REG,3,007632
+S5Aa38,1,S5,Caluire - Bords de Saône --> Vieux Crépieux,REG,3,007632
+S5Ar38,1,S5,Vieux Crépieux --> Caluire - Bords de Saône,REG,3,007632
+S6Aa14,1,S6,Hôtel de Ville L. Pradel --> Croix-Rousse,REG,3,007632
+S6Ar14,1,S6,Croix-Rousse --> Hôtel de Ville L. Pradel,REG,3,007632
+S7Aa10,1,S7,Saint Cyr --> La Chaux Ecole de Champlong,REG,3,007632
+S8Aa19,1,S8,Buissière Viralamande --> Rillieux Victor Hugo,REG,3,007632
+S8Ar19,1,S8,Rillieux Victor Hugo --> Buissière Viralamande,REG,3,007632
+S9Aa11,1,S9,Jean Giono --> Moly,REG,3,007632
+S9Ar11,1,S9,Moly --> Jean Giono,REG,3,007632
+S10Aa11,1,S10,Joannès Carret --> Lycée Jean Perrin,REG,3,007632
+S10Ar11,1,S10,Lycée Jean Perrin --> Joannès Carret,REG,3,007632
+S11Aa8,1,S11,Gare de Vaise --> Le Château Duchère,REG,3,007632
+S11Ar8,1,S11,Le Château Duchère --> Gare de Vaise,REG,3,007632
+S12Aa13,1,S12,Hôtel de Ville L. Pradel --> Croix-Rousse,REG,3,007632
+S12Ar13,1,S12,Croix-Rousse --> Hôtel de Ville L. Pradel,REG,3,007632
+S14Aa16,1,S14,Neuville --> Neuville,REG,3,007632
+S15Aa14,1,S15,Ecully Le Trouillat --> Les Sources,REG,3,007632
+S15Ar14,1,S15,Les Sources --> Ecully Le Trouillat,REG,3,007632
+S16Aa8,1,S16,Ecully Le Perollier --> Collonges Gare,REG,3,007632
+S16Ar8,1,S16,Collonges Gare --> Ecully Le Perollier,REG,3,007632
+ZI1Aa11,1,ZI1,Gare de Vénissieux --> St Priest Gare,REG,3,009FE3
+ZI1Ar11,1,ZI1,St Priest Gare --> Gare de Vénissieux,REG,3,009FE3
+ZI2Aa9,1,ZI2,Meyzieu Z.i. --> Z.I. Sud,REG,3,009FE3
+ZI2Ar9,1,ZI2,Z.I. Sud --> Meyzieu Z.i.,REG,3,009FE3
+ZI3Aa11,1,ZI3,Vaulx-en-Velin La Soie --> Z.I. Vaulx-en-Velin Est,REG,3,009FE3
+ZI3Ar11,1,ZI3,Z.I. Vaulx-en-Velin Est --> Vaulx-en-Velin La Soie,REG,3,009FE3
+ZI4Aa13,1,ZI4,Vaulx-en-Velin La Soie --> Caluire Chemin Petit,REG,3,009FE3
+ZI4Ar13,1,ZI4,Caluire Chemin Petit --> Vaulx-en-Velin La Soie,REG,3,009FE3
+ZI5Ba17,1,ZI5,Vaulx-en-Velin La Soie --> Rond-Point d'Italie,REG,3,009FE3
+ZI5Br17,1,ZI5,Rond-Point d'Italie --> Vaulx-en-Velin La Soie,REG,3,009FE3
+ZI7Aa5,1,ZI7,Vaulx-en-Velin La Soie --> Bron Droits de l'Homme,REG,3,009FE3
+ZI7Ar5,1,ZI7,Bron Droits de l'Homme --> Vaulx-en-Velin La Soie,REG,3,009FE3
+ZI8Aa4,1,ZI8,St Priest Jules Ferry --> Parc des Lumières 1,REG,3,009FE3
+ZI8Ar4,1,ZI8,Parc des Lumières 1 --> St Priest Jules Ferry,REG,3,009FE3
